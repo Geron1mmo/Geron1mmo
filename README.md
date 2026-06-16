@@ -4,7 +4,7 @@
 
 # Geron1mmo · Oleg
 
-**Full-stack vibe coder — apps, automation, extensions, bots. Build fast, ship daily.**
+**Full-stack vibe coder — React, Flutter, automation, extensions. Build fast, ship daily.**
 
 [![GitHub followers](https://img.shields.io/github/followers/Geron1mmo?style=flat-square&logo=github)](https://github.com/Geron1mmo)
 [![Profile views](https://komarev.com/ghpvc/?username=Geron1mmo&color=22c55e&style=flat-square)](https://github.com/Geron1mmo)
@@ -28,6 +28,7 @@ Not tied to one stack. If it runs, I can build it.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -47,6 +48,7 @@ Not tied to one stack. If it runs, I can build it.
 
 | Area | Tools & tech |
 |------|----------------|
+| **Web & UI** | React, TypeScript, JavaScript, HTML, CSS, modern component architecture |
 | **Cross-platform apps** | Flutter, Dart, Riverpod, SQLite, Android, Windows |
 | **Browser extensions** | Chrome Manifest V3, JavaScript, service workers, content scripts |
 | **Automation & bots** | Python, PowerShell, Bash, WebSocket bridges, API scripting |
@@ -69,7 +71,8 @@ Not tied to one stack. If it runs, I can build it.
 
 ```text
 Mobile / Desktop   Flutter · Dart · Android · Windows · sqflite
-Web / Extensions   JavaScript · Chrome MV3 · HTML · CSS
+Web / Frontend     React · TypeScript · JavaScript · HTML · CSS
+Extensions         Chrome MV3 · service workers · content scripts
 Automation         Python · PowerShell · Bash · API · WebSocket
 Systems            C++ · C# · CMake · Gradle · Visual Studio
 Data               SQL · SQLite · JSON export/import
