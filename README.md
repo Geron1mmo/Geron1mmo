@@ -20,7 +20,7 @@ Not tied to one stack. If it runs, I can build it.
 
 - **Vibe coding** — fast iteration, clean UI, real shipping
 - **Daily commits** since joining GitHub (June 2026)
-- Based in **Ukraine** · building in public
+- From **Ukraine** · based in **Czech Republic** · building in public
 
 ---
 
@@ -90,6 +90,7 @@ Jun 2026  ████████████  Daily commits — geronimmo-plan
 
 - GitHub: [@Geron1mmo](https://github.com/Geron1mmo)
 - Email: oleg.kost140@gmail.com
+- Location: Ukraine → Czech Republic
 
 ---
 
