@@ -2,9 +2,9 @@
 
 <img src="avatar.jpg" width="160" style="border-radius:50%" alt="Geron1mmo"/>
 
-# Geron1mmo · Oleg Kost
+# Geron1mmo | Oleg Kost
 
-**Full-stack & AI tools developer — React, Flutter, Python, LLM agents. Build fast, ship daily.**
+**Full-stack and AI tools developer. React, Flutter, Python, LLM agents.**
 
 [![GitHub followers](https://img.shields.io/github/followers/Geron1mmo?style=flat-square&logo=github)](https://github.com/Geron1mmo)
 [![Profile views](https://komarev.com/ghpvc/?username=Geron1mmo&color=22c55e&style=flat-square)](https://github.com/Geron1mmo)
@@ -16,11 +16,11 @@
 
 ## About
 
-I ship **real products** — from LLM agent tooling and SaaS dashboards to cross-platform apps and Chrome extensions.
+I build and ship real products: LLM agent tooling, SaaS dashboards, cross-platform apps, and Chrome extensions.
 
-- **AI / agents** — tracing, eval, cost tracking, local-first workflows
-- **Vibe coding** — fast iteration, clean UI, daily GitHub commits
-- From **Ukraine** · based in **Prague, Czech Republic** · **Open to Work**
+- **AI and agents** - tracing, eval, cost tracking, local-first workflows
+- **Vibe coding** - fast iteration, clean UI, daily GitHub commits
+- From **Ukraine**, based in **Prague, Czech Republic**, open to work
 
 ---
 
@@ -28,19 +28,19 @@ I ship **real products** — from LLM agent tooling and SaaS dashboards to cross
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [**agenttrace**](https://github.com/Geron1mmo/agenttrace) | `Python` `pytest` | LLM agent observability — span tracing, token/cost tracking, eval helpers |
-| [**applypilot-ai-pro**](https://github.com/Geron1mmo/applypilot-ai-pro) | `React` `TypeScript` | Local-first job tracker SaaS — kanban, CV analyzer, analytics [demo](https://geron1mmo.github.io/applypilot-ai-pro/) |
-| [**geronimmo-planner**](https://github.com/Geron1mmo/geronimmo-planner) | `Flutter` `Dart` `SQLite` | Cross-platform planner — tasks, calendar, dashboard, i18n |
-| [**autogrok**](https://github.com/Geron1mmo/autogrok) | `JavaScript` `Chrome MV3` | Grok AI browser extension — automation with human-in-the-loop |
+| [**agenttrace**](https://github.com/Geron1mmo/agenttrace) | `Python` `pytest` | LLM agent observability: span tracing, token/cost tracking, eval helpers |
+| [**applypilot-ai-pro**](https://github.com/Geron1mmo/applypilot-ai-pro) | `React` `TypeScript` | Local-first job tracker SaaS: kanban, CV analyzer, analytics ([demo](https://geron1mmo.github.io/applypilot-ai-pro/)) |
+| [**geronimmo-planner**](https://github.com/Geron1mmo/geronimmo-planner) | `Flutter` `Dart` `SQLite` | Cross-platform planner: tasks, calendar, dashboard, i18n |
+| [**autogrok**](https://github.com/Geron1mmo/autogrok) | `JavaScript` `Chrome MV3` | Grok AI browser extension with human-in-the-loop automation |
 
 ---
 
 ## What I Build
 
-| Area | Tools & tech |
+| Area | Tools and tech |
 |------|----------------|
-| **AI & agents** | Python, LLM tracing, pytest eval, Ollama, API integrations |
-| **Web & SaaS** | React 19, TypeScript, local-first apps, dashboards |
+| **AI and agents** | Python, LLM tracing, pytest eval, Ollama, API integrations |
+| **Web and SaaS** | React 19, TypeScript, local-first apps, dashboards |
 | **Cross-platform** | Flutter, Dart, Riverpod, SQLite, Android, Windows |
 | **Browser extensions** | Chrome Manifest V3, service workers, WebSocket |
 | **Automation** | Python, PowerShell, n8n, webhooks, scripting |
@@ -66,7 +66,7 @@ I ship **real products** — from LLM agent tooling and SaaS dashboards to cross
 ## GitHub Activity
 
 ```text
-Jun 2026  ████████████  agenttrace · applypilot · autogrok · planner — daily commits
+Jun 2026  daily commits across agenttrace, applypilot, autogrok, and geronimmo-planner
 ```
 
 ---
